@@ -1,3 +1,6 @@
+#include <vector>
+using namespace std;
+
 class Solution {
   public:
     int cntCoprime(vector<int> &arr) {
