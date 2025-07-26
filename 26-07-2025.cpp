@@ -27,7 +27,6 @@
 
 // second approach time complexity = O(n) time and O(1) space.
 
-
 // class Solution {
 //   public:
 //     vector<int> findMajority(vector<int>& nums) {
